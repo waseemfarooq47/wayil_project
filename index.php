@@ -277,7 +277,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="#" class="about-one__btn thm-btn">Book with us now</a>
+                            <a href="https://wa.me/919622781016?text=Welcome%20to%20Wayil%20Tour%20%26%20Travels,%20how%20can%20we%20assist%20you?" target="_blank" class="about-one__btn thm-btn">Book with us now</a>
                         </div>
                     </div>
                 </div>
