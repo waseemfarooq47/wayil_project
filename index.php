@@ -301,7 +301,7 @@
                                         src="assets/images/resources/bg-pahalgam.jpg"
                                         alt="" />
                                     <div class="popular-tours__icon">
-                                        <a href="tour-details.html">
+                                        <a href="#">
                                             <i class="fa fa-heart"></i>
                                         </a>
                                     </div>
@@ -314,16 +314,16 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="tour-details.html">Pahalgam Package</a>
+                                        <a href="#">Pahalgam Package</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         <!-- <span>₹1870</span>  -->
                                         Provides best Hotels and transport with scenic beauty crystal-clear waters .
                                     </p>
                                     <ul class="popular-tours__meta list-unstyled">
-                                        <li><a href="tour-details.html">Streams</a></li>
-                                        <li><a href="tour-details.html">Nature</a></li>
-                                        <li><a href="tour-details.html">Meadows</a></li>
+                                        <li><a href="#">Streams</a></li>
+                                        <li><a href="#">Nature</a></li>
+                                        <li><a href="#">Meadows</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -333,7 +333,7 @@
                                         src="assets/images/resources/gondolla.jpg"
                                         alt="" />
                                     <div class="popular-tours__icon">
-                                        <a href="tour-details.html">
+                                        <a href="#">
                                             <i class="fa fa-heart"></i>
                                         </a>
                                     </div>
@@ -346,16 +346,16 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="tour-details.html">Gulmarg Package</a>
+                                        <a href="#">Gulmarg Package</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         <!-- <span>₹1870</span>  -->
                                         Best Hotels and Transport enjoy snow-clad peaks, meadows & gondola ride.
                                     </p>
                                     <ul class="popular-tours__meta list-unstyled">
-                                        <li><a href="tour-details.html">Gondolla</a></li>
-                                        <li><a href="tour-details.html">Snow</a></li>
-                                        <li><a href="tour-details.html">Riding</a></li>
+                                        <li><a href="#">Gondolla</a></li>
+                                        <li><a href="#">Snow</a></li>
+                                        <li><a href="#">Riding</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -365,7 +365,7 @@
                                         src="assets/images/destination/thajwas.jpeg"
                                         alt="" />
                                     <div class="popular-tours__icon">
-                                        <a href="tour-details.html">
+                                        <a href="#">
                                             <i class="fa fa-heart"></i>
                                         </a>
                                     </div>
@@ -378,16 +378,16 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="tour-details.html">Sonmarg Package</a>
+                                        <a href="#">Sonmarg Package</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         <!-- <span>₹1870</span>  -->
                                         Best Hotels and Transport enjoy golden meadows and pristine beauty and Glaciers.
                                     </p>
                                     <ul class="popular-tours__meta list-unstyled">
-                                        <li><a href="tour-details.html">Glaciers</a></li>
-                                        <li><a href="tour-details.html">Trek</a></li>
-                                        <li><a href="tour-details.html">Camping</a></li>
+                                        <li><a href="#">Glaciers</a></li>
+                                        <li><a href="#">Trek</a></li>
+                                        <li><a href="#">Camping</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -397,7 +397,7 @@
                                         src="assets/images/destination/gurez-valley.jpg"
                                         alt="" />
                                     <div class="popular-tours__icon">
-                                        <a href="tour-details.html">
+                                        <a href="#">
                                             <i class="fa fa-heart"></i>
                                         </a>
                                     </div>
@@ -410,16 +410,16 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="tour-details.html">Gurez</a>
+                                        <a href="#">Gurez</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         <!-- <span>₹1870</span>  -->
                                         Best Hotels and Transport enjoy unspoiled natural beauty, serene & alpine meadows.
                                     </p>
                                     <ul class="popular-tours__meta list-unstyled">
-                                        <li><a href="tour-details.html">Trek</a></li>
-                                        <li><a href="tour-details.html">Photography</a></li>
-                                        <li><a href="tour-details.html">Camping</a></li>
+                                        <li><a href="#">Trek</a></li>
+                                        <li><a href="#">Photography</a></li>
+                                        <li><a href="#">Camping</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -429,7 +429,7 @@
                                         src="assets/images/destination/leh-ladakh.jpg"
                                         alt="" />
                                     <div class="popular-tours__icon">
-                                        <a href="tour-details.html">
+                                        <a href="#">
                                             <i class="fa fa-heart"></i>
                                         </a>
                                     </div>
@@ -442,16 +442,16 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="tour-details.html">Leh & Ladakh</a>
+                                        <a href="#">Leh & Ladakh</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         <!-- <span>₹1870</span>  -->
                                         Best Hotels and Transport Leh & Ladakh, often called the “Land of High Passes".
                                     </p>
                                     <ul class="popular-tours__meta list-unstyled">
-                                        <li><a href="tour-details.html">Lakes</a></li>
-                                        <li><a href="tour-details.html">Hills</a></li>
-                                        <li><a href="tour-details.html">Adventure</a></li>
+                                        <li><a href="#">Lakes</a></li>
+                                        <li><a href="#">Hills</a></li>
+                                        <li><a href="#">Adventure</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -461,7 +461,7 @@
                                         src="assets/images/destination/dallake.jpg"
                                         alt="" />
                                     <div class="popular-tours__icon">
-                                        <a href="tour-details.html">
+                                        <a href="#">
                                             <i class="fa fa-heart"></i>
                                         </a>
                                     </div>
@@ -474,16 +474,16 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="tour-details.html">Kashmir Lakes</a>
+                                        <a href="#">Kashmir Lakes</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         <!-- <span>₹1870</span>  -->
                                         A perfect blend of serenity and natural splendor.
                                     </p>
                                     <ul class="popular-tours__meta list-unstyled">
-                                        <li><a href="tour-details.html">Lakes</a></li>
-                                        <li><a href="tour-details.html">Shikara</a></li>
-                                        <li><a href="tour-details.html">Beauty</a></li>
+                                        <li><a href="#">Lakes</a></li>
+                                        <li><a href="#">Shikara</a></li>
+                                        <li><a href="#">Beauty</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -493,7 +493,7 @@
                                         src="assets/images/destination/nishat.jpg"
                                         alt="" />
                                     <div class="popular-tours__icon">
-                                        <a href="tour-details.html">
+                                        <a href="#">
                                             <i class="fa fa-heart"></i>
                                         </a>
                                     </div>
@@ -506,15 +506,15 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="tour-details.html">Mughal Gardens</a>
+                                        <a href="#">Mughal Gardens</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         The Mughal Gardens of Kashmir are timeless masterpieces.
                                     </p>
                                     <ul class="popular-tours__meta list-unstyled">
-                                        <li><a href="tour-details.html">Lawns </a></li>
-                                        <li><a href="tour-details.html">Fountains</a></li>
-                                        <li><a href="tour-details.html">Chinar</a></li>
+                                        <li><a href="#">Lawns </a></li>
+                                        <li><a href="#">Fountains</a></li>
+                                        <li><a href="#">Chinar</a></li>
                                     </ul>
                                 </div>
                             </div>
