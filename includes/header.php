@@ -25,10 +25,10 @@
                 <div class="main-header__top-right">
                     <div class="main-header__top-right-inner">
                         <div class="main-header__top-right-social">
+                            <a href="#"><i class="fab fa-whatsapp"></i></a>
                             <a href="#"><i class="fab fa-facebook"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
                             <a href="#"><i class="fab fa-instagram"></i></a>
-                            <a href="#"><i class="fab fa-dribbble"></i></a>
+                            <!-- <a href="#"><i class="fab fa-dribbble"></i></a> -->
                         </div>
                         <!-- <div class="main-header__top-right-btn-box">
                     <a href="#" class="thm-btn main-header__top-right-btn"
