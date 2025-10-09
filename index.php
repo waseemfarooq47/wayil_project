@@ -314,7 +314,7 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="#">Pahalgam Package</a>
+                                        <a href="./pahalgam.php">Pahalgam Package</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         <!-- <span>₹1870</span>  -->
@@ -346,7 +346,7 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="#">Gulmarg Package</a>
+                                        <a href="./gulmarg.php">Gulmarg Package</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         <!-- <span>₹1870</span>  -->
@@ -378,7 +378,7 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="#">Sonmarg Package</a>
+                                        <a href="./sonmarg.php">Sonmarg Package</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         <!-- <span>₹1870</span>  -->
@@ -410,7 +410,7 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="#">Gurez</a>
+                                        <a href="./gurez.php">Gurez</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         <!-- <span>₹1870</span>  -->
@@ -442,7 +442,7 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="#">Leh & Ladakh</a>
+                                        <a href="./leh-ladakh.php">Leh & Ladakh</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         <!-- <span>₹1870</span>  -->
@@ -474,7 +474,7 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="#">Kashmir Lakes</a>
+                                        <a href="./lakes.php">Kashmir Lakes</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         <!-- <span>₹1870</span>  -->
@@ -506,7 +506,7 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <h3 class="popular-tours__title">
-                                        <a href="#">Mughal Gardens</a>
+                                        <a href="./mughal-gardens.php">Mughal Gardens</a>
                                     </h3>
                                     <p class="popular-tours__rate">
                                         The Mughal Gardens of Kashmir are timeless masterpieces.

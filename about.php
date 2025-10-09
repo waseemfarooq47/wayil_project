@@ -145,7 +145,7 @@
                                 <h2>Ready for an unforgetable tour?</h2>
                             </div>
                             <div class="book-now__right">
-                                <a href="#" class="thm-btn book-now__btn">Book tour now</a>
+                                <a href="https://wa.me/919622781016?text=Welcome%20to%20Wayil%20Tour%20%26%20Travels,%20how%20can%20we%20assist%20you?" target="_blank" class="thm-btn book-now__btn">WhatsApp</a>
                             </div>
                         </div>
                     </div>
@@ -168,7 +168,9 @@
                         <div class="testimonial-one__carousel owl-theme owl-carousel">
                             <div class="testimonial-one__single">
                                 <div class="testimonial-one__img">
-                                    <img src="assets/images/testimonial/testimonial-one-img-1.png" alt="">
+                                    <img
+                                        src="assets/images/backgrounds/customer.png"
+                                        alt="" />
                                 </div>
                                 <div class="testimonail-one__content">
                                     <div class="testimonial-one__top-revivew-box">
@@ -178,18 +180,24 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star"></i>
                                     </div>
-                                    <p class="testimonial-one__text">This is due to their best service, pricing and
-                                        customer support. It’s throughly refresing to such a personal touch. Duis aute
-                                        irure lupsum reprehenderit.</p>
+                                    <p class="testimonial-one__text">
+                                        Had an amazing experience exploring Kashmir with WAYIL TOUR AND TRAVELS
+                                        Their knowledge of the region, attention to detail, and warm hospitality made our trip truly unforgettable.
+                                        Highly recommend for anyone visiting kashmir – they're the best!"
+                                    </p>
                                     <div class="testimonial-one__client-info">
-                                        <h3 class="testimonial-one__client-name">Shirley Smith</h3>
+                                        <h3 class="testimonial-one__client-name">
+
+                                        </h3>
                                         <p class="testimonial-one__client-title">Customer</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="testimonial-one__single">
                                 <div class="testimonial-one__img">
-                                    <img src="assets/images/testimonial/testimonial-one-img-2.png" alt="">
+                                    <img
+                                        src="assets/images/backgrounds/customer.png"
+                                        alt="" />
                                 </div>
                                 <div class="testimonail-one__content">
                                     <div class="testimonial-one__top-revivew-box">
@@ -199,18 +207,75 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star"></i>
                                     </div>
-                                    <p class="testimonial-one__text">This is due to their best service, pricing and
-                                        customer support. It’s throughly refresing to such a personal touch. Duis aute
-                                        irure lupsum reprehenderit.</p>
+                                    <p class="testimonial-one__text">
+                                        Hi am Sarika from Punjab .. just wanna share my experience..
+                                        Highly recommend for anyone visiting Sonmarg, Gulmarg, Pahalgam, Srinagar, and beyond! Five stars isn't enough
+                                        – they're the best!"
+                                    </p>
                                     <div class="testimonial-one__client-info">
-                                        <h3 class="testimonial-one__client-name">Kevin Martin</h3>
+                                        <h3 class="testimonial-one__client-name">
+                                            Sarika from Punjab
+                                        </h3>
+                                        <p class="testimonial-one__client-title">CUSTOMER</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="testimonial-one__single">
+                                <div class="testimonial-one__img">
+                                    <img
+                                        src="assets/images/backgrounds/customer.png"
+                                        alt="" />
+                                </div>
+                                <div class="testimonail-one__content">
+                                    <div class="testimonial-one__top-revivew-box">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                    <p class="testimonial-one__text">
+                                        Wayil is not only outstanding name but it's services r also Excellent.they provide help with
+                                        hotel bookings, economic tour package all over kashmir
+                                    </p>
+                                    <div class="testimonial-one__client-info">
+                                        <h3 class="testimonial-one__client-name">
+
+                                        </h3>
+                                        <p class="testimonial-one__client-title">CUSTOMER</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="testimonial-one__single">
+                                <div class="testimonial-one__img">
+                                    <img
+                                        src="assets/images/backgrounds/customer.png"
+                                        alt="" />
+                                </div>
+                                <div class="testimonail-one__content">
+                                    <div class="testimonial-one__top-revivew-box">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                    <p class="testimonial-one__text">
+                                        Kashmir is my favorite place and wayil tour & travels plan my every tour awesome way.it's Ravishing to visit around the kashmir with them.their tour packages r incredible .their hospitality is so caring & unique.
+                                    </p>
+                                    <div class="testimonial-one__client-info">
+                                        <h3 class="testimonial-one__client-name">
+                                            Sameen Akhter
+                                        </h3>
                                         <p class="testimonial-one__client-title">Customer</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="testimonial-one__single">
                                 <div class="testimonial-one__img">
-                                    <img src="assets/images/testimonial/testimonial-one-img-3.png" alt="">
+                                    <img
+                                        src="assets/images/backgrounds/customer.png"
+                                        alt="" />
                                 </div>
                                 <div class="testimonail-one__content">
                                     <div class="testimonial-one__top-revivew-box">
@@ -220,18 +285,23 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star"></i>
                                     </div>
-                                    <p class="testimonial-one__text">This is due to their best service, pricing and
-                                        customer support. It’s throughly refresing to such a personal touch. Duis aute
-                                        irure lupsum reprehenderit.</p>
+                                    <p class="testimonial-one__text">
+                                    <p class="testimonial-one__text">
+                                        I Had an amazing experience exploring Kashmir with WAYIL TOUR AND TRAVELS.
+                                        Their knowledge of the region, attention to detail, and warm hospitality made our trip truly unforgettable.
+                                    </p>
+                                    </p>
                                     <div class="testimonial-one__client-info">
-                                        <h3 class="testimonial-one__client-name">Jessica Brown</h3>
+                                        <!-- <h3 class="testimonial-one__client-name">Kevin Martin</h3> -->
                                         <p class="testimonial-one__client-title">Customer</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="testimonial-one__single">
                                 <div class="testimonial-one__img">
-                                    <img src="assets/images/testimonial/testimonial-one-img-1.png" alt="">
+                                    <img
+                                        src="assets/images/backgrounds/customer.png"
+                                        alt="" />
                                 </div>
                                 <div class="testimonail-one__content">
                                     <div class="testimonial-one__top-revivew-box">
@@ -241,18 +311,22 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star"></i>
                                     </div>
-                                    <p class="testimonial-one__text">This is due to their best service, pricing and
-                                        customer support. It’s throughly refresing to such a personal touch. Duis aute
-                                        irure lupsum reprehenderit.</p>
+                                    <p class="testimonial-one__text">
+                                        I Highly recommend for anyone visiting Sonmarg, Gulmarg, Pahalgam, Srinagar, and beyond! Five stars isn't enough – they're the best!"
+                                    </p>
                                     <div class="testimonial-one__client-info">
-                                        <h3 class="testimonial-one__client-name">Shirley Smith</h3>
+                                        <h3 class="testimonial-one__client-name">
+
+                                        </h3>
                                         <p class="testimonial-one__client-title">Customer</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="testimonial-one__single">
                                 <div class="testimonial-one__img">
-                                    <img src="assets/images/testimonial/testimonial-one-img-2.png" alt="">
+                                    <img
+                                        src="assets/images/backgrounds/customer.png"
+                                        alt="" />
                                 </div>
                                 <div class="testimonail-one__content">
                                     <div class="testimonial-one__top-revivew-box">
@@ -262,18 +336,21 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star"></i>
                                     </div>
-                                    <p class="testimonial-one__text">This is due to their best service, pricing and
-                                        customer support. It’s throughly refresing to such a personal touch. Duis aute
-                                        irure lupsum reprehenderit.</p>
+                                    <p class="testimonial-one__text">
+                                        Truly Amazing and Wonderful experience with Wayil Tour & Travels. Best Accommodations and Hotels everywhere.
+                                    </p>
                                     <div class="testimonial-one__client-info">
-                                        <h3 class="testimonial-one__client-name">Kevin Martin</h3>
+                                        <h3 class="testimonial-one__client-name">
+                                        </h3>
                                         <p class="testimonial-one__client-title">Customer</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="testimonial-one__single">
                                 <div class="testimonial-one__img">
-                                    <img src="assets/images/testimonial/testimonial-one-img-3.png" alt="">
+                                    <img
+                                        src="assets/images/backgrounds/customer.png"
+                                        alt="" />
                                 </div>
                                 <div class="testimonail-one__content">
                                     <div class="testimonial-one__top-revivew-box">
@@ -283,18 +360,20 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star"></i>
                                     </div>
-                                    <p class="testimonial-one__text">This is due to their best service, pricing and
-                                        customer support. It’s throughly refresing to such a personal touch. Duis aute
-                                        irure lupsum reprehenderit.</p>
+                                    <p class="testimonial-one__text">
+                                        WAYIL TOUR AND TRAVELS provides everything you need. 5star for the hospitality & 24x7 availability. Surely I recommend others to give them chance.
+                                    </p>
                                     <div class="testimonial-one__client-info">
-                                        <h3 class="testimonial-one__client-name">Jessica Brown</h3>
+                                        <h3 class="testimonial-one__client-name"></h3>
                                         <p class="testimonial-one__client-title">Customer</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="testimonial-one__single">
                                 <div class="testimonial-one__img">
-                                    <img src="assets/images/testimonial/testimonial-one-img-1.png" alt="">
+                                    <img
+                                        src="assets/images/backgrounds/customer.png"
+                                        alt="" />
                                 </div>
                                 <div class="testimonail-one__content">
                                     <div class="testimonial-one__top-revivew-box">
@@ -304,53 +383,12 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star"></i>
                                     </div>
-                                    <p class="testimonial-one__text">This is due to their best service, pricing and
-                                        customer support. It’s throughly refresing to such a personal touch. Duis aute
-                                        irure lupsum reprehenderit.</p>
+                                    <p class="testimonial-one__text">
+                                        For Kashmir Tour Wayil Tour & Travels is the best. Hotels Accommodations and transport facility as you wish. Marvelous!!!
+                                    </p>
                                     <div class="testimonial-one__client-info">
-                                        <h3 class="testimonial-one__client-name">Shirley Smith</h3>
-                                        <p class="testimonial-one__client-title">Customer</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="testimonial-one__single">
-                                <div class="testimonial-one__img">
-                                    <img src="assets/images/testimonial/testimonial-one-img-2.png" alt="">
-                                </div>
-                                <div class="testimonail-one__content">
-                                    <div class="testimonial-one__top-revivew-box">
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                    </div>
-                                    <p class="testimonial-one__text">This is due to their best service, pricing and
-                                        customer support. It’s throughly refresing to such a personal touch. Duis aute
-                                        irure lupsum reprehenderit.</p>
-                                    <div class="testimonial-one__client-info">
-                                        <h3 class="testimonial-one__client-name">Kevin Martin</h3>
-                                        <p class="testimonial-one__client-title">Customer</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="testimonial-one__single">
-                                <div class="testimonial-one__img">
-                                    <img src="assets/images/testimonial/testimonial-one-img-3.png" alt="">
-                                </div>
-                                <div class="testimonail-one__content">
-                                    <div class="testimonial-one__top-revivew-box">
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                    </div>
-                                    <p class="testimonial-one__text">This is due to their best service, pricing and
-                                        customer support. It’s throughly refresing to such a personal touch. Duis aute
-                                        irure lupsum reprehenderit.</p>
-                                    <div class="testimonial-one__client-info">
-                                        <h3 class="testimonial-one__client-name">Jessica Brown</h3>
+                                        <h3 class="testimonial-one__client-name">
+                                        </h3>
                                         <p class="testimonial-one__client-title">Customer</p>
                                     </div>
                                 </div>
