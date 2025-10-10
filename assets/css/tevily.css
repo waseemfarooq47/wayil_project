@@ -17,7 +17,7 @@
 /*--------------------------------------------------------------
 # Common
 --------------------------------------------------------------*/
-:root {
+/* :root {
     --thm-font: 'DM Sans', sans-serif;
     --thm-reey-font: 'reeyregular';
     --thm-gray: #787780;
@@ -32,7 +32,33 @@
     --thm-clr-extra: #e3e3e3;
     --thm-border-radius: 8px;
     --thm-letter-spacing: -0.02em;
+} */
+
+:root {
+    --thm-font: 'DM Sans', sans-serif;
+    --thm-reey-font: 'reeyregular';
+
+    /* Neutral & Text */
+    --thm-gray: #6C757D; /* Softer neutral gray for content */
+    --thm-gray-rgb: 108, 117, 125;
+
+    /* Brand & Accent Colors */
+    --thm-green-new: #2E8B57; /* Kashmiri Pine Green (nature, valleys) */
+    --thm-primary: #D4A017; /* Saffron Gold (warm highlight for buttons, icons) */
+    --thm-primary-rgb: 212, 160, 23;
+
+    /* Background & Base */
+    --thm-black: #1A374D; /* Deep mountain blue for headers/navbars */
+    --thm-black-rgb: 26, 55, 77;
+    --thm-base: #F8F9FA; /* Clean snow-white background */
+    --thm-base-rgb: 248, 249, 250;
+    --thm-clr-extra: #A7C7E7; /* Ice blue for accents/hover effects */
+
+    /* General Design */
+    --thm-border-radius: 8px;
+    --thm-letter-spacing: -0.02em;
 }
+
 
 .row {
     --bs-gutter-x: 30px;

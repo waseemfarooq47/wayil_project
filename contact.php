@@ -105,7 +105,7 @@
                     <div class="col-xl-8 col-lg-7">
                         <div class="contact-page__right">
                             <div class="comment-form">
-                                <form action="#" class="comment-one__form contact-form-validated">
+                                <form action="./contact.php" class="comment-one__form contact-form-validated" method="post">
                                     <div class="row">
                                         <div class="col-xl-6">
                                             <div class="comment-form__input-box">
@@ -123,8 +123,8 @@
                                             <div class="comment-form__input-box">
                                                 <textarea name="message" placeholder="Write Comment"></textarea>
                                             </div>
-                                            <button type="submit" class="thm-btn comment-form__btn">Send a
-                                                message</button>
+                                            <input type="submit" class="thm-btn comment-form__btn" name="send_msg" value="send message">
+
                                         </div>
                                     </div>
                                 </form>
@@ -247,6 +247,50 @@
 </body>
 
 
-<!-- Mirrored from tevily-html.vercel.app/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Sep 2025 14:02:18 GMT -->
-
 </html>
+
+
+
+
+
+
+<?php
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+if (isset($_POST['send_msg'])) {
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $message = $_POST['message'];
+
+    require './Php_Mailer/Exception.php';
+    require './Php_Mailer/PHPMailer.php';
+    require './Php_Mailer/SMTP.php';
+
+    $mail = new PHPMailer(true);
+
+    try {
+        $mail->isSMTP();
+        $mail->Host       = 'smtp.gmail.com';
+        $mail->SMTPAuth   = true;
+        $mail->Username   = 'waseemfarooq47@gmail.com';
+        $mail->Password   = 'mpra dnpd zimw uszs'; // app password
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+        $mail->Port       = 465;
+
+        $mail->setFrom('waseemfarooq47@gmail.com', 'Wayil Tour & Travels');
+        $mail->addAddress('waseemfarooq47@gmail.com', 'Wayil Form');
+
+        $mail->isHTML(true);
+        $mail->Subject = 'Welcome to Wayil Tour & Travels';
+        $mail->Body    = "Sender Name: $name <br> Sender Email: $email <br> Message: $message";
+
+        $mail->send();
+        echo "<script>alert('Message sent successfully!'); window.location.href='contact.php';</script>";
+        exit;
+    } catch (Exception $e) {
+        echo "<script>alert('Message could not be sent.'); window.location.href='contact.php';</script>";
+    }
+}
+?>
