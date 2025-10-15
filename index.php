@@ -562,7 +562,7 @@
                                 <li>
                                     <div class="video-one__icon-box">
                                         <span class="new-icons-Wayil">
-                                            <img src="./assets/images/icons/hotel.png" alt="hotel">
+                                            <img src="./assets/images/icons/hotell.png" alt="hotel">
                                         </span>
 
                                     </div>
@@ -574,7 +574,7 @@
                                 <li>
                                     <div class="video-one__icon-box">
                                         <span class="new-icons-Wayil">
-                                            <img src="./assets/images/icons/transport.png" alt="hotel">
+                                            <img src="./assets/images/icons/bus.png" alt="hotel">
                                         </span>
                                     </div>
                                     <h4 class="video-one__icon-box-title">
@@ -585,23 +585,23 @@
                                 <li>
                                     <div class="video-one__icon-box">
                                         <span class="new-icons-Wayil">
-                                            <img src="./assets/images/icons/mountains.png" alt="hotel">
+                                            <img src="./assets/images/icons/flight.png" alt="hotel">
                                         </span>
                                     </div>
                                     <h4 class="video-one__icon-box-title">
-                                        <a href="#">Snow <br />
-                                            Mountains</a>
+                                        <a href="#">Flight <br />
+                                            Booking</a>
                                     </h4>
                                 </li>
                                 <li>
                                     <div class="video-one__icon-box">
                                         <span class="new-icons-Wayil">
-                                            <img src="./assets/images/icons/lake.png" alt="hotel">
+                                            <img src="./assets/images/icons/train.png" alt="hotel">
                                         </span>
                                     </div>
                                     <h4 class="video-one__icon-box-title">
-                                        <a href="#">Beautiful <br />
-                                            Lakes</a>
+                                        <a href="#">Train <br />
+                                            Booking</a>
                                     </h4>
                                 </li>
                             </ul>
