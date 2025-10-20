@@ -274,13 +274,13 @@ if (isset($_POST['send_msg'])) {
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'waseemfarooq47@gmail.com';
-        $mail->Password   = 'mpra dnpd zimw uszs'; // app password
+        $mail->Username   = 'wayiltourandtravels@gmail.com';
+        $mail->Password   = 'ijsu jvia qpfi mknh'; // app password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $mail->Port       = 465;
 
-        $mail->setFrom('waseemfarooq47@gmail.com', 'Wayil Tour & Travels');
-        $mail->addAddress('waseemfarooq47@gmail.com', 'Wayil Form');
+        $mail->setFrom('wayiltourandtravels@gmail.com', 'Wayil Tour & Travels');
+        $mail->addAddress('wayiltourandtravels@gmail.com', 'Wayil Form');
 
         $mail->isHTML(true);
         $mail->Subject = 'Welcome to Wayil Tour & Travels';
