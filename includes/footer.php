@@ -1,6 +1,7 @@
   <footer class="site-footer">
       <div class="whatsapp-cover">
           <a href="https://wa.me/919622781016?text=Welcome%20to%20Wayil%20Tour%20%26%20Travels,%20how%20can%20we%20assist%20you?" target="_blank"><img src="assets/images/icons/whatsapp-logo.png" alt="whats-app" /></a>
+          <a href="https://www.instagram.com/travelwithwayil?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="assets/images/icons/instagram.png" alt="insta-app" /></a>
       </div>
       <div class="site-footer__top">
           <div class="container">
