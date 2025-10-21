@@ -122,7 +122,7 @@
                                   <a href="https://wa.me/919622781016?text=Welcome%20to%20Wayil%20Tour%20%26%20Travels,%20how%20can%20we%20assist%20you?" target="_blank"><i class="fab fa-whatsapp"></i></a>
                                   <a href="#"><i class="fab fa-facebook"></i></a>
                                   <!-- <a href="#"><i class="fab fa-pinterest-p"></i></a> -->
-                                  <a href="#"><i class="fab fa-instagram"></i></a>
+                                  <a href="https://www.instagram.com/travelwithwayil?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><i class="fab fa-instagram"></i></a>
                               </div>
                           </div>
                           <div class="site-footer__bottom-right">

@@ -67,7 +67,7 @@
     <div class="preloader">
         <img
             class="preloader__image"
-            width="100"
+            width="150"
             src="assets/images/loader.png"
             alt="" />
     </div>
