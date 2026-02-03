@@ -92,7 +92,7 @@
                     <div class="col-xl-6">
                         <div class="about-page__left">
                             <div class="about-page__img">
-                                <img src="assets/images/resources/shop.jpeg" alt="">
+                                <img src="assets/images/gallery/abot.png" alt="shop">
                             </div>
                         </div>
                     </div>

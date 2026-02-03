@@ -5,7 +5,7 @@
          <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
          <div class="logo-box">
-             <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="155" alt="" /></a>
+             <a href="index.html" aria-label="logo image"><img src="assets/images/resources/changed-logo.png" width="155" alt="mbl-logo" /></a>
          </div>
          <!-- /.logo-box -->
          <div class="mobile-nav__container"></div>
@@ -14,8 +14,8 @@
          <ul class="mobile-nav__contact list-unstyled">
              <li>
                  <i class="fa fa-envelope"></i>
-                 <a href="mailto:wayultourandtravels@gmail.com
-                 ">wayultourandtravels@gmail.com</a>
+                 <a href="mailto:wayiltourandtravels@gmail.com
+                 ">wayiltourandtravels@gmail.com</a>
              </li>
              <li>
                  <i class="fa fa-phone-alt"></i>
@@ -23,7 +23,7 @@
              </li>
          </ul>
          <!-- /.mobile-nav__contact -->
-         <div class="mobile-nav__top">git
+         <div class="mobile-nav__top">
              <div class="mobile-nav__social">
                  <a href="#" class="fab fa-twitter"></a>
                  <a href="#" class="fab fa-facebook-square"></a>

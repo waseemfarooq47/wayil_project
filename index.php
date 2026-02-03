@@ -107,7 +107,7 @@
                                     </h2>
                                 </div>
                                 <div class="destinations-one__button">
-                                    <a href="./pahalgam.php">Gulmarg </a>
+                                    <a href="./gulmarg.php">Gulmarg </a>
                                 </div>
                             </div>
                         </div>
@@ -125,7 +125,7 @@
                                     </h2>
                                 </div>
                                 <div class="destinations-one__button">
-                                    <a href="./gulmarg.php">Pahalgam</a>
+                                    <a href="./pahalgam.php">Pahalgam</a>
                                 </div>
                             </div>
                         </div>
@@ -162,7 +162,7 @@
                                     </h2>
                                 </div>
                                 <div class="destinations-one__button">
-                                    <a href="#">Lakes</a>
+                                    <a href="./lakes.php">Lakes</a>
                                 </div>
                             </div>
                         </div>
@@ -180,7 +180,7 @@
                                     </h2>
                                 </div>
                                 <div class="destinations-one__button">
-                                    <a href="#">Mughal Gardens</a>
+                                    <a href="./mughal-gardens.php">Mughal Gardens</a>
                                 </div>
                             </div>
                         </div>

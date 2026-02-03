@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Destination || Wayul Tour & Travel</title>
+  <title>Destination || wayil Tour & Travel</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/180x180-favi copy 3@300x.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/32x32 favi @300x.png" />

@@ -17,7 +17,7 @@
                                 <span class="icon-at"></span>
                             </div>
                             <div class="text">
-                                <a href="mailto:wayultourandtravels@gmail.com">wayiltourandtravels@gmail.com</a>
+                                <a href="mailto:wayiltourandtravels@gmail.com">wayiltourandtravels@gmail.com</a>
                             </div>
                         </li>
                     </ul>
@@ -89,7 +89,7 @@
                         <a
                             href="#"
                             class="main-menu__search search-toggler icon-magnifying-glass"></a>
-                        <a href="#" class="main-menu__user icon-avatar"></a>
+                        <!-- <a href="#" class="main-menu__user icon-avatar"></a> -->
                     </div>
                 </div>
             </div>

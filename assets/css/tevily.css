@@ -753,6 +753,8 @@ ul {
     }
 }
 
+
+
 .mobile-nav__buttons a {
     font-size: 20px;
     color: var(--thm-black);
@@ -7491,6 +7493,10 @@ ul {
     z-index: 1;
 }
 
+
+
+
+
 .about-page-testimonial:before {
     position: absolute;
     top: 0;
@@ -7720,3 +7726,312 @@ ul {
   50%  { transform: scale(1.08); }
   100% { transform: scale(1); }
 }
+
+
+/* Packages new */
+/* Tour Grid Container */
+      .tour-container {
+        max-width: 1400px;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        gap: 30px;
+        padding: 0 20px;
+      }
+
+      /* Tour Card */
+      .tour-card {
+        background: #ffffff;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        transform: translateY(0);
+        transition:
+          transform 0.3s ease,
+          box-shadow 0.3s ease;
+        position: relative;
+      }
+
+      .tour-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+      }
+
+      /* Image Container */
+      .tour-image {
+        position: relative;
+        width: 100%;
+        height: 280px;
+        overflow: hidden;
+      }
+
+      .tour-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.5s ease;
+      }
+
+      .tour-card:hover .tour-image img {
+        transform: scale(1.1);
+      }
+
+      /* Price Badge */
+      .price-badge {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        background: linear-gradient(135deg, #d4a017 0%, #d4a017 100%); 
+        color: #ffffff;
+        padding: 12px 20px;
+        border-radius: 50px;
+        font-weight: 600;
+        font-size: 0.9rem;
+        box-shadow: 0 4px 15px rgba(249, 115, 22, 0.4);
+        z-index: 2;
+      }
+
+      .price-value {
+        font-size: 1.3rem;
+        font-weight: 700;
+        display: block;
+        margin-top: 2px;
+      }
+
+      /* Card Content */
+      .tour-content {
+        padding: 25px;
+      }
+
+      .tour-title {
+        font-size: 1.6rem;
+        font-weight: 600;
+        color: #1e293b;
+        margin-bottom: 12px;
+      }
+
+      .tour-description {
+        font-size: 0.95rem;
+        color: #64748b;
+        margin-bottom: 20px;
+        line-height: 1.7;
+      }
+
+      /* Button Container */
+      .button-group {
+        display: inline-block;
+        justify-content: space-between;
+        gap: 12px;
+        margin-top: 20px;
+        width: 100%;
+      }
+
+      /* Book Now Button */
+      .btn-book {
+        flex: 1;
+        background: linear-gradient(135deg, #0ea5e9 0%, #0284c7 100%);
+        color: #ffffff;
+        padding: 14px 24px;
+        border: none;
+        border-radius: 12px;
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition:
+          transform 0.2s ease,
+          box-shadow 0.2s ease;
+        box-shadow: 0 4px 15px rgba(14, 165, 233, 0.3);
+      }
+
+      .btn-book:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(14, 165, 233, 0.4);
+      }
+
+      .btn-book:active {
+        transform: translateY(0);
+      }
+
+      /* WhatsApp Button */
+      .btn-whatsapp {
+        background: #25d366;
+        color: #ffffff;
+        padding: 14px 20px;
+        border: none;
+        border-radius: 12px;
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition:
+          transform 0.2s ease,
+          box-shadow 0.2s ease;
+        box-shadow: 0 4px 15px rgba(37, 211, 102, 0.3);
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+      }
+
+      .btn-whatsapp:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(37, 211, 102, 0.4);
+      }
+
+      .btn-whatsapp:active {
+        transform: translateY(0);
+      }
+
+      /* WhatsApp Icon */
+      .whatsapp-icon {
+        width: 20px;
+        height: 20px;
+      }
+
+      /* Footer */
+      .footer {
+        max-width: 1400px;
+        margin: 60px auto 0;
+        padding: 30px 20px;
+        text-align: center;
+        color: #64748b;
+        font-size: 0.9rem;
+      }
+
+      /* Responsive Design */
+      @media (max-width: 768px) {
+        .header h1 {
+          font-size: 2rem;
+        }
+
+        .header p {
+          font-size: 1rem;
+        }
+
+        .tour-container {
+          grid-template-columns: 1fr;
+          gap: 25px;
+        }
+
+        .tour-image {
+          height: 220px;
+        }
+
+        .tour-title {
+          font-size: 1.3rem;
+        }
+
+        .button-group {
+          flex-direction: column;
+        }
+
+        .btn-whatsapp {
+          width: 100%;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .header {
+          padding: 30px 15px;
+          margin-bottom: 30px;
+        }
+
+        .header h1 {
+          font-size: 1.6rem;
+        }
+
+        .tour-content {
+          padding: 20px;
+        }
+
+        .price-badge {
+          padding: 10px 16px;
+          font-size: 0.8rem;
+        }
+
+        .price-value {
+          font-size: 1.1rem;
+        }
+      }
+
+      /* Loading Animation */
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(20px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      .tour-card {
+        animation: fadeIn 0.6s ease forwards;
+      }
+
+      .tour-card:nth-child(1) {
+        animation-delay: 0.1s;
+      }
+      .tour-card:nth-child(2) {
+        animation-delay: 0.2s;
+      }
+      .tour-card:nth-child(3) {
+        animation-delay: 0.3s;
+      }
+      .tour-card:nth-child(4) {
+        animation-delay: 0.4s;
+      }
+      .tour-card:nth-child(5) {
+        animation-delay: 0.5s;
+      }
+      .tour-card:nth-child(6) {
+        animation-delay: 0.6s;
+      }
+/* Packages new ends */
+
+
+/* pricing */
+
+.pricing-details{
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 15px;
+    border: 2px solid #d4a017;
+    border-radius: 10px;
+    padding: 10px 15px;
+    width: 100%;
+
+    .price-tagged{
+        color: #1E293B;
+        margin-bottom: unset;
+        font-size: 14px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+}
+
+.new-pricing-tagg{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: space-evenly;
+    .spacer{
+        padding: 0 10px;
+    }
+    
+.old-price{
+  color: #e74c3c;
+  text-decoration: line-through;
+  font-size: 16px;
+}
+
+.discounted-price{
+   color: #1E293B;
+  font-size: 20px;
+  font-weight: bold;
+}
+}
+
